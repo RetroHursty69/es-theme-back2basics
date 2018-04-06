@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  YU-GI-OH</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Yu-Gi-Oh! is a Japanese manga series about gaming written and illustrated by Kazuki Takahashi. It was serialized in Shueisha's Weekly Shōnen Jump magazine between September 30, 1996 and March 8, 2004</text>
+  </text>
+ </view>
+</theme>

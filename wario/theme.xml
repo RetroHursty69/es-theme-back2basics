@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  WARIO</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Wario is a character in Nintendo's Mario series who was originally designed as an arch-rival of Mario. He first appeared in the 1992 Game Boy title Super Mario Land 2: 6 Golden Coins as the main antagonist and final boss</text>
+  </text>
+ </view>
+</theme>

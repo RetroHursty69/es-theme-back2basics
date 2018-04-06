@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  METROID</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Metroid is an action game franchise created by Nintendo. The series is primarily produced by the company's first-party developers Nintendo R&D1 and Retro Studios, although some games have been handled by other developers</text>
+  </text>
+ </view>
+</theme>

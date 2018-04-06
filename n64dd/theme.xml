@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1999  ·  DISK CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The 64DD, colloquially referred to as the Nintendo 64DD, is a magnetic disk drive peripheral for the Nintendo 64 game console developed by Nintendo</text>
+  </text>
+ </view>
+</theme>

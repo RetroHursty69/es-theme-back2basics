@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  ICE HOCKEY</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Ice hockey is a contact team sport played on ice, usually in a rink, in which two teams of skaters use their sticks to shoot a vulcanized rubber puck into their opponent's net to score points</text>
+  </text>
+ </view>
+</theme>

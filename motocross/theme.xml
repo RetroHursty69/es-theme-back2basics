@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  MOTOCROSS</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Motorcross first evolved in the U.K. from motorcycle trials competitions, such as the Auto-Cycle Clubs's first quarterly trial in 1909 and the Scottish Six Days Trial that began in 1912</text>
+  </text>
+ </view>
+</theme>

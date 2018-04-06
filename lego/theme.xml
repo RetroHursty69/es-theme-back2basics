@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  LEGO</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Since 1995, 67 commercial video games based on the Lego construction system, produced by The Lego Group, have been released</text>
+  </text>
+ </view>
+</theme>

@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2005  ·  32-BIT HANDHELD CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Game Boy Micro is a handheld game console developed and manufactured by Nintendo. It was first released in September 2005 as a compact redesign of the Game Boy Advance</text>
+  </text>
+ </view>
+</theme>

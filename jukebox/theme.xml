@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>UTILITY  ·  JUKEBOX</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>A cool Jukebox utility to play mp3 music files</text>
+  </text>
+ </view>
+</theme>

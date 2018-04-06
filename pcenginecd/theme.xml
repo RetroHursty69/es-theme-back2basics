@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1988  ·  CD CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>NEC were the first to use the immense storage capability of Compact Disc.  NEC's CD-ROM add-on device was called TurboGrafx-CD or TG-CD (PC Engine CD-ROM2 in Japan)</text>
+  </text>
+ </view>
+</theme>

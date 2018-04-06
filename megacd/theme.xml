@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1991  ·  16-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Sega Mega-CD, known as the Sega CD in North America and Brazil, and CD Aladdin Boy in South Korea, is a hardware add-on developed by Sega for the Sega Mega Drive</text>
+  </text>
+ </view>
+</theme>

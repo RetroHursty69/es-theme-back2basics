@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  TMNT</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Teenage Mutant Ninja Turtles are four fictional teenaged anthropomorphic turtles named after Italian artists of the Renaissance. They were trained by their anthropomorphic rat sensei in the art of ninjutsu</text>
+  </text>
+ </view>
+</theme>

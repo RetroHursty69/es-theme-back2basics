@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  YOSHI</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Yoshi, once romanized as Yossy, is a fictional anthropomorphic dinosaur who appears in video games published by Nintendo. Yoshi debuted in Super Mario World (1990) on the Super Nintendo Entertainment System as Mario and Luigi's sidekick</text>
+  </text>
+ </view>
+</theme>

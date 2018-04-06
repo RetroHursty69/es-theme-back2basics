@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>HANDHELD  ·  PSP MINIS</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>PSP Minis are games available to download from the PlayStation Store. Many of them are also compatible with the PlayStation 3 (PS3), PlayStation Vita (PSVita) and PlayStation TV (PSTV)</text>
+  </text>
+ </view>
+</theme>

@@ -1,0 +1,233 @@
+
+
+<theme>
+<formatVersion>4</formatVersion>
+ 
+
+<!-- System View -->
+
+<feature supported="carousel">
+<view name="system">
+ <image name="background" extra="true">
+	<tile>false</tile>
+	<path>./_assets/system-global-bg.jpg</path>
+	<size>1 1</size>
+	<pos>0 0</pos>
+ </image>
+ 
+ <text name="shortdescription" extra="true">
+	<fontPath>./_assets/Roboto-Medium.ttf</fontPath>
+	<alignment>center</alignment>
+	<forceUppercase>1</forceUppercase>
+	<fontSize>0.035</fontSize>
+	<color>ffffff</color>
+	<origin>0.5 0.5</origin>
+	<pos>1.232 1.3</pos>
+	<size>0.35 0.1</size>
+ </text>
+
+ <image name="logo">
+	<path>./_assets/logos/${system.theme}.png</path>
+	<color>ffffff</color>
+
+ </image>
+
+ <carousel name="systemcarousel">
+	<type>vertical</type>
+	<color>00000000</color>
+	<origin>0.5 0.5</origin>
+	<pos>0.15 0.5</pos>
+	<size>1 1</size> 
+	<logoSize>0.3 0.18</logoSize>
+	<maxLogoCount>5</maxLogoCount>
+ </carousel>
+
+ <text name="systemInfo">
+	<fontPath>./_assets/Roboto-Medium.ttf</fontPath>
+	<alignment>center</alignment>
+	<backgroundColor>00000000</backgroundColor>
+	<color>ffffff</color>
+	<origin>0.5 0.5</origin>
+	<pos>0.75 0.885</pos>
+	<size>0.980 0.050</size>
+	<fontSize>0.022</fontSize>
+ </text>
+ 
+ <text name="longdescription" extra="true">
+	<fontPath>./_assets/Roboto-Medium.ttf</fontPath>
+	<alignment>center</alignment>
+	<forceUppercase>0</forceUppercase>
+	<fontSize>0.02</fontSize>
+	<color>ffffff</color>
+	<origin>0.5 0.1</origin>
+	<pos>0.747 0.39</pos>
+	<size>0.39 0.16</size>
+ </text>
+ 
+<!--
+
+ <image name="indicator" extra="true">
+	<path>./_assets/indicators/${system.theme}.png</path>
+	<tile>false</tile>
+	<origin>0.5 0.5</origin>
+	<pos>0.028 0.5</pos>
+	<size>0.008 0.65</size>
+  </image>
+
+-->
+
+ <image name="character" extra="true">
+	<path>./_assets/backdrops/${system.theme}.png</path>
+	<tile>false</tile>
+	<origin>0 0</origin>
+	<pos>0 0</pos>
+	<size>1 1</size>
+  </image>
+ 
+ <image name="controller" extra="true">
+	<path>./_assets/controllers/${system.theme}.png</path>
+	<tile>false</tile>
+	<pos>0.67 0.563</pos>
+	<maxSize>0.28 0.28</maxSize>	
+  </image>
+
+ <helpsystem name="help">
+    <fontPath>./_assets/Roboto-Medium.ttf</fontPath>
+    <fontSize>0.016</fontSize>
+	<pos>0.066 0.97</pos>
+	<textColor>ffffff</textColor>
+    <iconColor>ffffff</iconColor>
+ </helpsystem>
+  
+</view>
+</feature>
+
+
+
+
+
+<!-- Gamelist View -->
+
+<view name="basic, detailed, video, grid">
+
+ <image name="background" extra="true">
+	<tile>false</tile>
+	<path>./_assets/ingame-global-bg.jpg</path>
+	<size>1 1</size>
+	<pos>0 0</pos>
+ </image>
+
+ <image name="logo2" extra="true">
+	<path>./_assets/logos/${system.theme}.png</path>
+	<color>ffffff</color>
+	<origin>0.5 0.5</origin>
+	<pos>0.265 0.07</pos>
+	<maxSize>0.16 0.16</maxSize>
+ </image>
+ 
+ <text name="shortdescription" extra="true">
+	<pos>1 1</pos>
+ </text>
+
+ 
+ <text name="longdescription" extra="true">
+	<fontPath>./_assets/Roboto-Medium.ttf</fontPath>
+	<alignment>center</alignment>	
+	<forceUppercase>0</forceUppercase>
+	<fontSize>0.02</fontSize>
+	<color>085DA5</color>
+	<origin>1 1</origin>
+	<pos>1.925 1.92</pos>
+	<size>0.45 0.2</size>
+ </text>
+ 
+<textlist name="gamelist">
+	<selectorColor>ffffff</selectorColor>
+	<selectorImagePath>./_assets/icon.png</selectorImagePath>
+	<selectedColor>fed600</selectedColor>
+	<selectorHeight>.05</selectorHeight>
+	<primaryColor>ffffff</primaryColor>
+	<secondaryColor>fed600</secondaryColor>
+	<fontPath>./_assets/Roboto-Medium.ttf</fontPath>
+	<alignment>left</alignment>
+	<forceUppercase>1</forceUppercase>
+	<pos>0.01 0.01</pos>
+	<size>0.435 0.99</size>
+	<fontSize>0.03</fontSize>
+	<lineSpacing>1.70</lineSpacing>
+	<horizontalMargin>0.052</horizontalMargin>
+</textlist>
+
+<helpsystem name="help">
+    <fontPath>./_assets/Roboto-Medium.ttf</fontPath>
+    <fontSize>0.018</fontSize>
+	<pos>0.46 0.92</pos>
+	<textColor>78c7ef</textColor>
+    <iconColor>78c7ef</iconColor>
+</helpsystem>
+
+<!-- Hide Unused Elements -->	
+<text name="md_description">
+	<pos>0 0</pos>
+    <color>0b2a49</color>
+    <fontPath>./_assets/Roboto-Medium.ttf</fontPath>
+    <fontSize>0.018</fontSize>	
+</text>
+<text name="md_description">
+    <pos>1.479 1.725</pos>
+    <size>0.44 0.175</size>
+    <color>0b2a49</color>
+</text>
+</view>
+
+<view name="basic, detailed, grid">
+ <image name="character" extra="true">
+	<path>./_assets/backdrops/${system.theme}.png</path>
+	<tile>false</tile>
+	<origin>0 0</origin>
+	<pos>0 0</pos>
+	<size>1 1</size>
+ </image>
+ <image name="shade" extra="true">
+	<path>./_assets/shade.png</path>
+	<tile>false</tile>
+	<origin>0 0</origin>
+	<pos>0 0</pos>
+	<size>1 1</size>
+ </image> 
+ <image name="md_image">
+	<origin>0.5 0.5</origin>
+	<pos>0.747 0.631</pos>
+	<maxSize>0.3292 0.4297</maxSize>
+ </image>
+</view>
+
+<feature supported="video">
+
+<view name="video">
+ <image name="character" extra="true">
+	<path>./_assets/backdrops/${system.theme}.png</path>
+	<tile>false</tile>
+	<origin>0 0</origin>
+	<pos>0 0</pos>
+	<size>1 1</size>
+ </image>
+ <image name="shade" extra="true">
+	<path>./_assets/shade.png</path>
+	<tile>false</tile>
+	<origin>0 0</origin>
+	<pos>0 0</pos>
+	<size>1 1</size>
+ </image>
+ <video name="md_video">
+	<origin>0.5 0.5</origin>
+	<pos>0.747 0.631</pos>
+	<maxSize>0.3292 0.4297</maxSize>
+	<delay>1</delay>
+	<showSnapshotNoVideo>true</showSnapshotNoVideo>
+	<showSnapshotDelay>true</showSnapshotDelay>
+ </video>
+</view>
+</feature>
+
+</theme>

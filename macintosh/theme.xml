@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1984  ·  COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Macintosh (branded as Mac since 1998) is a family of personal computers designed, manufactured, and sold by Apple Inc. since January 1984</text>
+  </text>
+ </view>
+</theme>

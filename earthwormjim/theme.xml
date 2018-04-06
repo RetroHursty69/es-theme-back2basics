@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  EARTHWORM JIM</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Earthworm Jim is a series of side-scrolling platforming video games, the first game of which was released in 1994. The series is noted for its platforming and shooting gameplay, surrealist humor, and edgy art style</text>
+  </text>
+ </view>
+</theme>

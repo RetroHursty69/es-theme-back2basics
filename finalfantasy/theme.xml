@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  FINAL FANTASY</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Final Fantasy is a science fiction and fantasy media franchise created by Hironobu Sakaguchi, and developed and owned by Square Enix. The franchise centers on a series of fantasy and science fantasy role-playing video games (RPGs)</text>
+  </text>
+ </view>
+</theme>

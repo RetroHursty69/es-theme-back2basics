@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  ZELDA</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Legend of Zelda[a] is a high-fantasy action-adventure video game series created by Japanese game designers Shigeru Miyamoto and Takashi Tezuka</text>
+  </text>
+ </view>
+</theme>

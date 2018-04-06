@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>UNRELEASED  ·  ADD-ON</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Super NES CD-ROM System (commonly shortened as the SNES-CD), also known as the Super Famicom CD-ROM Adapter, refers to an unreleased video game peripheral for the Super Nintendo Entertainment System (SNES)</text>
+  </text>
+ </view>
+</theme>

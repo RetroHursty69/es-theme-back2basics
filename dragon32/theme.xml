@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1982  ·  COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Dragon 32 is a home computer that was built in 1982. Produced for the European market by Dragon Data, Ltd., in Port Talbot, Wales, and for the US market by Tano of New Orleans, Louisiana</text>
+  </text>
+ </view>
+</theme>

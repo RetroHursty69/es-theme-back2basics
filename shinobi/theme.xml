@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  SHINOBI</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Shinobi is a side-scrolling action game produced by Sega originally released for the arcades in 1987</text>
+  </text>
+ </view>
+</theme>

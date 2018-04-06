@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>ARCADE  ·  TAITO</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Taito Corporation is a Japanese video game developer and publisher of arcade hardware and mobile phones, and an operator of video arcades</text>
+  </text>
+ </view>
+</theme>

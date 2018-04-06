@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  METAL SLUG</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Metal Slug is a series primarily of run and gun video games created by SNK. Spin-off games include a third-person shooter and a tower defense game</text>
+  </text>
+ </view>
+</theme>

@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>ARCADE  ·  DATA EAST</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Data East Corporation also abbreviated as DECO, was a Japanese video game and electronic engineering company. The company was in operation from 1976 to 2003, and released 150 video game titles</text>
+  </text>
+ </view>
+</theme>

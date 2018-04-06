@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1988  ·  CD CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The TurboGrafx-CD is an add on for the TurboGrafx-16. It was released to expand the library of games of the TurboGrafx 16. It was originally released as the PC-Engine CD-ROM² in Japan</text>
+  </text>
+ </view>
+</theme>

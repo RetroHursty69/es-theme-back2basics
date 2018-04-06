@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  CONTRA</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Contra, distributed as Gryzor in Europe and Oceania, is a 1987 run and gun action game developed and published by Konami originally released as a coin-operated arcade game on February 20, 1987. A home version was released for the Nintendo Entertainment System in 1988, along with ports for various computer formats, including the MSX2</text>
+  </text>
+ </view>
+</theme>

@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  SAILOR MOON</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Sailor Moon is a Japanese shōjo manga series by Naoko Takeuchi. It was originally serialized in Nakayoshi from 1991 to 1997; the 52 individual chapters were published in 18 tankōbon volumes</text>
+  </text>
+ </view>
+</theme>

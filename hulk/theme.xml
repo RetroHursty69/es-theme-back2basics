@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  HULK</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Caught in the blast of gamma radiation, brilliant scientist Bruce Banner is cursed to transform in times of stress into the living engine of destruction known as THE INCREDIBLE HULK</text>
+  </text>
+ </view>
+</theme>

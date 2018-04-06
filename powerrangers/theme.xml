@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  POWER RANGERS</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Power Rangers is an American entertainment and merchandising franchise built around a live action superhero television series. The television series takes much of its footage from the Japanese tokusatsu Super Sentai, produced by Toei Company</text>
+  </text>
+ </view>
+</theme>

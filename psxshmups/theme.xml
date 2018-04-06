@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  PSX SHMUPS</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>All the greatest shoot'em up games from on the Sony PlayStation</text>
+  </text>
+ </view>
+</theme>

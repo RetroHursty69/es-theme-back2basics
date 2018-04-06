@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>ARCADE  ·  IREM</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Irem is a Japanese video game console developer and publisher, and formerly a developer and manufacturer of arcade games as well. The company has its headquarters in Chiyoda, Tokyo</text>
+  </text>
+ </view>
+</theme>

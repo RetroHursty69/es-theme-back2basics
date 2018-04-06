@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  BUBBLE BOBBLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Bubble Bobble is an comical action platformer video game by Taito, first released in arcades in 1986 and later ported to home systems</text>
+  </text>
+ </view>
+</theme>

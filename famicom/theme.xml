@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1983  ·  8-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Nintendo Entertainment System is an 8-bit home video game console that was developed and manufactured by Nintendo. It was initially released in Japan as the Family Computer (Famicom) on July 15, 1983, and was later released in New York City in 1985, and throughout the U.S as well as in Europe during 1986 and 1987, and Australia in 1987</text>
+  </text>
+ </view>
+</theme>

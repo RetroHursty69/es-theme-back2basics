@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1993  ·  32-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Amiga CD32, styled "CD32" and code-named "Spellbound", was the first 32-bit home video game console released in western Europe, Australia, Canada and Brazil</text>
+  </text>
+ </view>
+</theme>

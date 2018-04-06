@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1985  ·  8-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Sega Mark III is a video game console created by Sega. It was released in October 1985 in Japan, before being distributed in South Korea and Taiwan later in the decade</text>
+  </text>
+ </view>
+</theme>

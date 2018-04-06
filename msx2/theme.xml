@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1983  ·  COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The MSX was the first of four attempts by Microsoft & ASCII to standardize computers. The MSX standard failed in the United States, but in Brazil, Europe, South Korea, and Japan, it was very popular</text>
+  </text>
+ </view>
+</theme>

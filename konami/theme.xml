@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>ARCADE  ·  KONAMI</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Konami Holdings Corporation commonly referred to as Konami, is a Japanese entertainment and gaming conglomerate</text>
+  </text>
+ </view>
+</theme>

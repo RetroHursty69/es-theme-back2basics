@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>ARCADE  ·  TRACKBALL</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>A collection of all arcade games that use trackball controls</text>
+  </text>
+ </view>
+</theme>

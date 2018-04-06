@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>ARCADE  ·  ATARI</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Atari was an early pioneer in the video game industry, in fact, they virtually created the industry with their introduction of the arcade game Pong</text>
+  </text>
+ </view>
+</theme>

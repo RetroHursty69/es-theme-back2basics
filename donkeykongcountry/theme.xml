@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  DONKEY KONG COUNTRY</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Donkey Kong Country is a 1994 platform game developed by Rare and published by Nintendo for the Super Nintendo Entertainment System (SNES). The game centres on Donkey Kong and his nephew Diddy Kong, who must recover their stolen bananas from King K. Rool and the Kremlings</text>
+  </text>
+ </view>
+</theme>

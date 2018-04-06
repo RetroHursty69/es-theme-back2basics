@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  MORTAL KOMBAT</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Mortal Kombat is a video game franchise originally developed by Midway Games' Chicago studio in 1992. Following Midway's bankruptcy, the Mortal Kombat development team was acquired by Warner Bros. and turned into NetherRealm Studios</text>
+  </text>
+ </view>
+</theme>

@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  BASKETBALL</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>A collection of basketball video games across all systems, from early arcade, NBA Jam and the later more graphical consoles</text>
+  </text>
+ </view>
+</theme>

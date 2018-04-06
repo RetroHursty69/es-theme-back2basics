@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>ARCADE  ·  NINTENDO</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Nintendo released a series of arcade games in the 1970s and 80s. The company made toys and trading card games prior to their film projection-based light gun games from 1973 to 1978</text>
+  </text>
+ </view>
+</theme>

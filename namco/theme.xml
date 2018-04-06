@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>ARCADE  ·  NAMCO</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Namco Limited is a Japanese corporation that operates game centers and theme parks, but is best known for its previous identity as a video game developer and publisher</text>
+  </text>
+ </view>
+</theme>

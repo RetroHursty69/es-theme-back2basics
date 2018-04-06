@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  PRINCE OF PERSIA</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Prince of Persia is a video game franchise created by Jordan Mechner, originally developed and published by Brøderbund. The franchise is built around a series of action-adventure games focused on various incarnations of the eponymous prince</text>
+  </text>
+ </view>
+</theme>

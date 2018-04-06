@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  BOMBERMAN</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Bomberman, also known as Dyna Blaster in Europe is a strategic, maze-based video game franchise originally developed by Hudson Soft and currently owned by Konami</text>
+  </text>
+ </view>
+</theme>

@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  KIRBY</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Kirby is a fictional character and the titular protagonist of the Kirby series of video games owned by Nintendo and HAL Laboratory</text>
+  </text>
+ </view>
+</theme>

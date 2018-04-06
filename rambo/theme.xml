@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  RAMBO</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Rambo is a troubled Vietnam War veteran and former U.S. Army Special Forces soldier who is skilled in many aspects of survival, weaponry, hand-to-hand combat and guerrilla warfare</text>
+  </text>
+ </view>
+</theme>

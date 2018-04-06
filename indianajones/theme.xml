@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  INDIANA JONES</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Dr. Henry Walton "Indiana" Jones, Jr. is a title character and protagonist of the Indiana Jones franchise. George Lucas created the character in homage to the action heroes of 1930s film serials</text>
+  </text>
+ </view>
+</theme>

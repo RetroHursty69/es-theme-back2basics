@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  DIGIMON</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Digimon is short for "Digital Monsters" and is a Japanese media franchise encompassing virtual pet toys, anime, manga, video games, films and a trading card game</text>
+  </text>
+ </view>
+</theme>

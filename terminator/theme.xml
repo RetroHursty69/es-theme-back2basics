@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  TERMINATOR</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Terminator series encompasses a series of films, comics, novels, and additional media concerning battles between Skynet's synthetic intelligent machine network, and John Connor's Resistance forces and the rest of the human race</text>
+  </text>
+ </view>
+</theme>

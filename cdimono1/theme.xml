@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1991  ·  CD CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Philips CD-i (an abbreviation of Compact Disc Interactive) is an interactive multimedia CD player developed and marketed by Royal Philips Electronics N.V., who supported it from December 1991 into the late 1990s</text>
+  </text>
+ </view>
+</theme>

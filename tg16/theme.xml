@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1987  ·  16-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The TurboGrafx-16 Entertainment SuperSystem, known in Japan and France as the PC Engine is a home video game console jointly developed by Hudson Soft and NEC Home Electronics</text>
+  </text>
+ </view>
+</theme>

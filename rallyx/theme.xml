@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  RALLY-X</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Rally-X is a driving game set in an overhead, scrolling maze, released in arcades by Namco, and licensed in 1980 to Midway Manufacturing Co. for US manufacture and distribution in 1981. It was the first game with background music</text>
+  </text>
+ </view>
+</theme>

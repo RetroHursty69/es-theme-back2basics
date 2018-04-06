@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  CASTLEVANIA</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Castlevania is a series of gothic fantasy action-adventure video games created and developed by Konami, centered on the Belmont family, a clan of vampire hunters, and their fight with Dracula. The series debuted in Japan on September 26, 1986, with the release of the original game for the Family Computer Disk System, followed by an alternate version for the MSX2 platform on October 30</text>
+  </text>
+ </view>
+</theme>

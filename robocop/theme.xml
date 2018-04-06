@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  ROBOCOP</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>RoboCop is a 1987 American cyberpunk action film directed by Paul Verhoeven and written by Edward Neumeier and Michael Miner</text>
+  </text>
+ </view>
+</theme>

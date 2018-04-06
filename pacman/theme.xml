@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  PACMAN</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Pac-Man stylized as PAC-MAN, is an arcade game developed by Namco and first released in Japan in May 1980. It was created by Japanese video game designer Toru Iwatani</text>
+  </text>
+ </view>
+</theme>

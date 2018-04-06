@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  FROGGER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Frogger is a 1981 arcade game developed by Konami. It was licensed for North American distribution by Sega-Gremlin and worldwide by Sega itself. It is regarded as a classic from the golden age of video arcade games, noted for its novel gameplay and theme</text>
+  </text>
+ </view>
+</theme>

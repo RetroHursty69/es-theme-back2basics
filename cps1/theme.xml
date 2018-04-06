@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>ARCADE  ·  CP SYSTEM</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The CP System is an arcade system board developed by Capcom that ran game software stored on removable ROM cartridges. More than two dozen arcade titles were released for CPS-1, before Capcom shifted game development over to its successor, the CP System II</text>
+  </text>
+ </view>
+</theme>

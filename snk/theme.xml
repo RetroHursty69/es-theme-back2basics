@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>ARCADE  ·  SNK</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>SNK Corporation is a Japanese video game hardware and software company, successor to the Shin Nihon Kikaku and current owner of the SNK video game brand and Neo Geo video game platform</text>
+  </text>
+ </view>
+</theme>

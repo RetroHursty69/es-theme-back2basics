@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>ARCADE  ·  TOAPLAN</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Toaplan was a video game developer from Japan. They were responsible for the creation of a wide array of relatively famous scrolling shooters and other arcade games</text>
+  </text>
+ </view>
+</theme>

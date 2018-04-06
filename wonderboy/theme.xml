@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  WONDER BOY</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Wonder Boy is a 1986 platformer video game published by Sega and developed by Escape (now known as Westone Bit Entertainment)</text>
+  </text>
+ </view>
+</theme>

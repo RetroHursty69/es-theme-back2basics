@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  KING OF FIGHTERS</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The series was originally developed for SNK's Neo Geo MVS arcade hardware, which served as the main platform for the series until 2004, when SNK retired the MVS in favor of the Atomiswave arcade board</text>
+  </text>
+ </view>
+</theme>

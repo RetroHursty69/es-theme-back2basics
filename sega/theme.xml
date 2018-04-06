@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>ARCADE  ·  SEGA</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Sega Games Co., Ltd. originally short for Service Games and officially styled as SEGA, is a Japanese multinational video game developer and publisher headquartered in Tokyo, Japan, with offices around the world</text>
+  </text>
+ </view>
+</theme>

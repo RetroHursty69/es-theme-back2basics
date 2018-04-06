@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  CUSTOM</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>All collections that are not included in this 'Crisp' theme will appear in this menu</text>
+  </text>
+ </view>
+</theme>

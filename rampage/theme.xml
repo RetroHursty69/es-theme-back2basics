@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  RAMPAGE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Rampage is a 1986 arcade game by Bally Midway. Players take control of gigantic monsters trying to survive against onslaughts of military forces. Each round is completed when a particular city is completely reduced to rubble</text>
+  </text>
+ </view>
+</theme>

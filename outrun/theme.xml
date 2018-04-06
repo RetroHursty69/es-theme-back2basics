@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  OUTRUN</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Out Run is an arcade game released by Sega in 1986. It was designed by Yu Suzuki and developed by Sega AM2. The game was a critical and commercial success, becoming one of the best-selling video games of its time</text>
+  </text>
+ </view>
+</theme>

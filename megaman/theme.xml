@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  MEGA MAN</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Mega Man (alternatively written as Megaman and MegaMan), known as Rockman (ロックマン Rokkuman) in Japan, is a video game franchise created by Capcom, starring the robot character Mega Man, or one of his many counterparts</text>
+  </text>
+ </view>
+</theme>

@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2000  ·  CD CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The PlayStation 2 (PS2) is a home video game console that was developed by Sony Computer Entertainment. It is the successor to the PlayStation and is the second installment in the PlayStation lineup of consoles</text>
+  </text>
+ </view>
+</theme>

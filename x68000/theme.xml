@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1987  ·  COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The X68000 is a home computer created by Sharp Corporation, first released in 1987, sold only in Japan</text>
+  </text>
+ </view>
+</theme>

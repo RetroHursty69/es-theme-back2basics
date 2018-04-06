@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>ARCADE  ·  MIDWAY</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Midway is an American video game developer and publisher. Midway's franchises included Mortal Kombat, Rampage, Spy Hunter, NBA Jam, Cruis'n, and NFL Blitz</text>
+  </text>
+ </view>
+</theme>

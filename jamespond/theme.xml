@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  JAMES POND</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>James Pond was a character in comic books and appeared in many video games during the 90's</text>
+  </text>
+ </view>
+</theme>

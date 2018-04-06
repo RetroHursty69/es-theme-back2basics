@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  BOULDER DASH</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Boulder Dash is a video game released in 1984 by First Star Software for Atari 8-bit computers</text>
+  </text>
+ </view>
+</theme>

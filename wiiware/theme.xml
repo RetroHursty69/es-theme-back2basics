@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2008  ·  CONSOLE SERVICE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>WiiWare is a service that allows Wii users to download games and applications specifically designed and developed for the Wii video game console made by Nintendo</text>
+  </text>
+ </view>
+</theme>

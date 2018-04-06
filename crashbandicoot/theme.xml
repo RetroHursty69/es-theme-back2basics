@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  CRASH BANDICOOT</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Crash Bandicoot is a franchise of platform video games. The series was created by Andy Gavin and Jason Rubin during their tenure at Naughty Dog for Universal Interactive Studios and Sony Computer Entertainment</text>
+  </text>
+ </view>
+</theme>

@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  DOUBLE DRAGON</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Double Dragon is a beat 'em up video game series initially developed by Technōs Japan and released as an arcade game in 1987. The series stars twin martial artists, Billy and Jimmy Lee, as they fight against various adversaries and rivals</text>
+  </text>
+ </view>
+</theme>

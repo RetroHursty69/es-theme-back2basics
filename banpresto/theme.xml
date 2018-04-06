@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>ARCADE  ·  BANPRESTO</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Banpresto is a Japanese toy company, and a former game developer and publishing, headquartered in the Shinagawa Seaside West Building in Shinagawa, Tokyo</text>
+  </text>
+ </view>
+</theme>

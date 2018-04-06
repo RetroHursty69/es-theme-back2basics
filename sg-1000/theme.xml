@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1983  ·  CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The SG-1000, also known as the Sega Computer Video Game SG-1000, is a home video game console manufactured by Sega and released in Japan, Australia, and other regions</text>
+  </text>
+ </view>
+</theme>

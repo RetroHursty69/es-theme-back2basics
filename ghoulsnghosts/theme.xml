@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  GHOULS N GHOSTS</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Ghouls 'n Ghosts is a side-scrolling platform game developed by Capcom and released as an arcade game in 1988, and subsequently ported to a number of other platforms</text>
+  </text>
+ </view>
+</theme>

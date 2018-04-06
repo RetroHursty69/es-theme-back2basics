@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1981  ·  COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The ZX81 is a home computer that was produced by Sinclair Research and manufactured in Scotland by Timex Corporation</text>
+  </text>
+ </view>
+</theme>

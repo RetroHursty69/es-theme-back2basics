@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  LIGHT GUN</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>A collection of arcade games that use a light gun</text>
+  </text>
+ </view>
+</theme>

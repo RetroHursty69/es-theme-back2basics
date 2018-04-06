@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  MADDEN</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Madden is an American football video game series developed by EA Tiburon for EA Sports</text>
+  </text>
+ </view>
+</theme>

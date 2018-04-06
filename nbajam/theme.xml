@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>COLLECTIONS  ·  NBA JAM</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>NBA Jam is a long-running basketball video game series based on the NBA. Initially developed as arcade games by Midway, the game found popularity with its photorealistic digitized graphics and exaggerated style of two-on-two basketball play</text>
+  </text>
+ </view>
+</theme>
