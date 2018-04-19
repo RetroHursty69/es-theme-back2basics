@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>UTILITY</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Shut down your system</text>
+  </text>
+ </view>
+</theme>
